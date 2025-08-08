@@ -1,2 +1,0 @@
-import owaiis
-owaiis.main()
