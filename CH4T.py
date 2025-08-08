@@ -1,2 +1,2 @@
-import owais
+import owaiis
 owaiis.main()
