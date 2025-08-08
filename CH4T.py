@@ -1,0 +1,2 @@
+import owais
+owais.main()
